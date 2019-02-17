@@ -1,0 +1,14 @@
+{
+  "timeZone": "GMT",
+  "dependencies": {
+  },
+  "dataStudio": {
+    "name": "A Star Wars Google Data Studio Connector",
+    "logoUrl": "https://raw.githubusercontent.com/npm/logos/master/%22npm%22%20lockup/npm-logo-simplifed-with-white-space.png",
+    "company": "Butler Raines",
+    "companyUrl": "https://developers.google.com/datastudio/",
+    "addonUrl": "https://github.com/butlerjraines/simple-Google-data-studio-connector",
+    "supportUrl": "https://butlerraines.com",
+    "description": "A simple Google Data Studio Connector calling public api. No data transformation. ."
+  }
+}
